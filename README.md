@@ -4,7 +4,7 @@ Evidencias de los Postworks realizados durante el Módulo "Programación y estad
 Axel Flores Guarneros
 axelflores.afg@gmail.com
 
-SESIÓN 1: INTRODUCCIÓN A R Y SOFTWARE
+#SESIÓN 1:# INTRODUCCIÓN A R Y SOFTWARE
 
 SESIÓN 2: PROGRAMACIÓN Y MANIPULACIÓN DE DATOS EN R
 
